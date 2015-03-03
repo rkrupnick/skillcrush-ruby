@@ -1,1 +1,0 @@
-puts "Hello, world! I'm Rachel"

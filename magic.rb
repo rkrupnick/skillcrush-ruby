@@ -9,6 +9,8 @@ auth_token = "735542464031556bfee4a255f082c56c"
 puts "I can see into the future. And I always tell the truth..."
 puts "Ask me anything: "
 gets
+puts "Please enter your cell phone number to recieve your response via text:"
+cell = gets.to_s
 
 i = rand(20)
 
@@ -23,7 +25,7 @@ fortune = response[i]
 
 	message = @client.account.messages.create(
 	:from => "7328317202",
-	:to => "7326918091",
+        :to => cell,
 	:body => fortune
 	)
 

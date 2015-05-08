@@ -10,6 +10,7 @@ def birth_number(bdate)
 	number = number[0].to_i + number[1].to_i
 	# If the result is still two digits, add together again
 	if number > 9
+	number = number.to_s
 	number = number[0].to_i + number[1].to_i
 	end	
 

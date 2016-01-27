@@ -20,13 +20,13 @@ code and it returns th local weather for the next five days
 ##Exercises
 
 1. [Adding Integers](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/addingmethod.rb)
-2. [Greetings, Hello World with Input](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/greetings.rb)
+2. [Greetings, Hello World with Input](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/greeting.rb)
 3. [If/Else](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/if_else.rb)
 4. [Loops](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/love_loops.rb)
 5. [FizzBuzz](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/fizzbuzz.rb)
 6. [Case-Playing with Case Statement](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/case.rb)
 7. [Symbols](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/symbols.rb)
-8. [Pets - Playing With Objects](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises)
+8. [Pets - Playing With Objects](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/pets.rb)
 9. Playing with Objects [1](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/object1.rb) and [2](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/objects2.rb)
 10. [Blog/Blog Post Creator](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/blog.rb)
 11. [Sandwich](https://github.com/rkrupnick/skillcrush-ruby/tree/master/exercises/sandwich.rb)
